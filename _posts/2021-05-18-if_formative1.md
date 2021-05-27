@@ -9,7 +9,7 @@ toc_label: "페이지 주요 목차"
 categories: 형성평가
 ---
 
-### 01. tkwnqhrl
+### 01. 사주보기
 ![saju](/assets/images/블로그 사진1.jpg)
 ~~~c
 #include <stdio.h>
