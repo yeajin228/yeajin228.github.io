@@ -53,7 +53,7 @@ categories: 형성평가
  ![callenderl](/assets/images/블로그 사진3.jpg)
  ~~~c
 #include <stdio.h>
- int main(voild)
+ int main(void)
  { int year, month;
  
     printf("연도와 월을 입력하세요 : ");
