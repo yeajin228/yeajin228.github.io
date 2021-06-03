@@ -49,15 +49,15 @@ categories: 형성평가
  }
  ~~~
  
- ### 03. 이 달은 며칠까지 있을까?
- ![callenderl](/assets/images/블로그 사진3.jpg)
- ~~~c
+### 03. 이 달은 며칠까지 있을까?
+![callenderl](/assets/images/블로그 사진3.jpg)
+~~~c
 #include <stdio.h>
  int main(void)
  { int year, month;
  
     printf("연도와 월을 입력하세요 : ");
-    scanf("%d%d",&year,&month);
+    scanf("%d%d", &year, &month);
     printf("%d년 %d월의 마지막날은 ", year, month);
     
     if(month==1||month==3||month==5||month==7||month==8||month==10||month==12)
